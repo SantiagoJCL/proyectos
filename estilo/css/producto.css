@@ -1,0 +1,58 @@
+
+.asd{
+  position: relative;
+  text-align: st;
+}
+
+
+html,body{background-color: #FFE787;
+          margin:0px; 
+          height:100%; 
+          
+        } 
+
+        #menu {
+         float: left;
+         width: 250Px;
+         height: 100%;
+         
+         
+       }
+       .shadow{
+        box-shadow: none;
+    }
+       #div1{ 
+        margin-top: 6px;  
+        margin-bottom: -14px; 
+         width: 170px;
+         margin-left: 5px;
+       }
+ 
+     *{
+       
+      padding:0;
+       }       
+ /* sirve para todas las listas */             
+     input{
+         list-style-type:none;
+         position:left;
+         
+         
+      }
+     
+li:hover ul{display:block;}        
+   .imagen{
+     width: 200px;
+     padding: 9px;
+     padding-right: 1%;    
+     
+   }
+
+   .col-3{
+    max-width: none;
+    padding: 7px;
+   }
+   #tarjeta{
+    width: 13rem; 
+    left :20px;
+   }
